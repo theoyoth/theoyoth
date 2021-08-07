@@ -1,8 +1,8 @@
-### Hi, I'm Theo - aka Theoyoth 👋
+## Hi, I'm Theo - aka Theoyoth 👋
 
-#### 💻 focus on the front-end - web developer
+### 💻 focus on the front-end - web developer
 
-#### I like to animate website
+### 🎥 I like to animate website
 
 - ⚡ Fun fact: I love to watch movies 🎬
 
