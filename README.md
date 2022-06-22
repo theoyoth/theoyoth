@@ -1,0 +1,24 @@
+## Hi, I'm Theo - aka Theoyoth 👋
+
+### Focus on the frontend - web developer
+
+<p align="center">
+  <a href="https://instagram.com/yothphotos">
+    <img src="https://img.shields.io/twitter/url?color=blue&label=INSTAGRAM&logo=instagram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fyothphotos%2F" alt="instagram"/>
+  </a>
+  <a href="https://instagram.com/theoyoth">
+    <img src="https://img.shields.io/twitter/url?color=orange&label=INSTAGRAM&logo=instagram&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Ftheoyoth%2F" alt="instagram"/>
+  </a>
+  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img src="https://img.shields.io/twitter/url?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF3t40-awz3eOb9FqNhcesQ" alt="theoyoth's YouTube channel"/>
+  </a>
+</p>
+
+---
+### Latest YouTube videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Photoshop manipulation - Found the waterfall](https://www.youtube.com/watch?v=mNsbPbXKwNo&t=1s)
+- [Photoshop manipulation - Found the castle](https://www.youtube.com/watch?v=Hs42yQwixbQ)
+- [Photoshop manipulation - Man and wolf](https://www.youtube.com/watch?v=kKVYFIP9YQo)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
