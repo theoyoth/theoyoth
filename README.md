@@ -18,7 +18,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Photoshop manipulation - Last Knight](https://www.youtube.com/watch?v=kmbtY3ZsJiU&t=3s)
 - [Photoshop manipulation - Found the waterfall](https://www.youtube.com/watch?v=mNsbPbXKwNo&t=1s)
 - [Photoshop manipulation - Found the castle](https://www.youtube.com/watch?v=Hs42yQwixbQ)
-- [Photoshop manipulation - Man and wolf](https://www.youtube.com/watch?v=kKVYFIP9YQo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
