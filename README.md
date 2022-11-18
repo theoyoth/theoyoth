@@ -15,10 +15,13 @@
 </p>
 
 ---
+
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Photoshop manipulation - Found the waterfall](https://www.youtube.com/watch?v=mNsbPbXKwNo&t=1s)
-- [Photoshop manipulation - Found the castle](https://www.youtube.com/watch?v=Hs42yQwixbQ)
-- [Photoshop manipulation - Man and wolf](https://www.youtube.com/watch?v=kKVYFIP9YQo)
+
+- [Create QR Code Generator using React js](https://www.youtube.com/watch?v=iIuMRD4ooEk)
+- [I create Landing page using React js + Framer motion | #3](https://www.youtube.com/watch?v=vpX7mCdEb0U&t=31s)
+- [I create Landing page using React js + Framer motion | #2](https://www.youtube.com/watch?v=SWzjuuwT85E)
+- [I create Landing page using React js + Framer motion | #1](https://www.youtube.com/watch?v=fkp--KAzJZA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
