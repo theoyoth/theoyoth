@@ -19,9 +19,3 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
-- [Create QR Code Generator using React js](https://www.youtube.com/watch?v=iIuMRD4ooEk)
-- [I create Landing page using React js + Framer motion | #3](https://www.youtube.com/watch?v=vpX7mCdEb0U&t=31s)
-- [I create Landing page using React js + Framer motion | #2](https://www.youtube.com/watch?v=SWzjuuwT85E)
-- [I create Landing page using React js + Framer motion | #1](https://www.youtube.com/watch?v=fkp--KAzJZA)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
