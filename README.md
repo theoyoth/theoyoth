@@ -9,8 +9,11 @@
   <a href="https://instagram.com/theoyoth" target="_blank">
     <img src="https://img.shields.io/twitter/url?color=orange&label=INSTAGRAM&logo=instagram&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Ftheoyoth%2F" alt="instagram"/>
   </a>
+  <a href="https://www.youtube.com/@codebytheo" target="_blank">
+    <img src="https://img.shields.io/twitter/url?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF3t40-awz3eOb9FqNhcesQ" alt="codebyttheo YouTube channel"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCF3t40-awz3eOb9FqNhcesQ" target="_blank">
-    <img src="https://img.shields.io/twitter/url?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF3t40-awz3eOb9FqNhcesQ" alt="theoyoth's YouTube channel"/>
+    <img src="https://img.shields.io/twitter/url?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF3t40-awz3eOb9FqNhcesQ" alt="theoyoth YouTube channel"/>
   </a>
 </p>
 
@@ -20,8 +23,8 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
-- [Create QR Code Generator using React js](https://www.youtube.com/watch?v=iIuMRD4ooEk)
-- [I create Landing page using React js + Framer motion | #3](https://www.youtube.com/watch?v=vpX7mCdEb0U&t=31s)
-- [I create Landing page using React js + Framer motion | #2](https://www.youtube.com/watch?v=SWzjuuwT85E)
-- [I create Landing page using React js + Framer motion | #1](https://www.youtube.com/watch?v=fkp--KAzJZA)
+- [Landing page animation using REACT + FRAMER MOTION](https://www.youtube.com/watch?v=nr8mRcD0pJE)
+- [3 different ways to create FUNCTION in JAVASCRIPT](https://www.youtube.com/watch?v=s8xdVyAiKq8&t=41s)
+- [Configuration for NUXT JS + TAILWIND CSS](https://www.youtube.com/watch?v=kiUPDFzaBOI)
+- [Configuration for REACT JS + TAILWIND CSS](https://www.youtube.com/watch?v=TuLEidE6lrY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
